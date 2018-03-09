@@ -1,20 +1,20 @@
 # Coordinates-Grabber
 
 
-This is a utility mod for **The Long Dark** by Hinterland Studio, Inc.
+Hinterland Studio, Inc. **The Long Dark** için bir yardımcı programdır.
 
-It allows to see / copy the position, rotation and scene of interactive items.<br/>
-The data will be copied in a format suitable for [gear spawns definitions](https://github.com/WulfMarius/ModComponent/wiki/Gear-Spawns) for ModComponent.
+Etkileşimli öğelerin konumunu, dönmesini ve sahnesini görmeyi/kopyalamayı sağlar.<br/>
+ModComponent [spawns tanımları](https://github.com/WulfMarius/ModComponent/wiki/Gear-Spawns) için uygun bir formatta kopyalanacaktır.
 
-Usage:
-* Press and hold `P` to see the position of the item under the crosshair
-* Press and hold `R` to see the rotation of the item under the crosshair
-* Press and hold `L` to see the scene name of the item under the crosshair
-* Press and hold `K` to see the loot table name of the container under the crosshair (does nothing if the item under the crosshair is no container)
+Kullanım:
+* Öğenin crosshair altındaki konumunu görmek için `P` tuşuna basılı tutun.
+* Öğenin crosshair altındaki dönüşünü görmek için `R` tuşuna basılı tutun.
+* Crosshair altındaki öğenin sahne adını görmek için `L` tuşuna basılı tutun.
+* Kontur altındaki kabın yağma tablo ismini görmek için `K` tuşunu basılı tutun. (Eğer crosshair altında ise herhangi bir şey kapsayıcı ise hiçbir şey yapmaz)
 
-* Press `CTRL+P` or `CTRL+R` to copy a complete item spawn definition for the item under the crosshair to your clipboard
-* Press `CTRL+L` to copy a complete scene definition to your clipboard
-* Press `CTRL+K` to copy a complete loot table definition to your clipboard
+* Crosshair altındaki öğeye ait eksiksiz bir öğe spawn tanımını panoya kopyalamak için  `CTRL+P` veya `CTRL+R` tuşlarına basın.
+* Tam bir sahne tanımını panoya kopyalamak için `CTRL+L` tuşlarına basın.
+* Panoya tam bir yağma tablosu tanımını kopyalamak için `CTRL+K` tuşlarına basın.
 
 
-For installation instructions see [Releases](https://github.com/WulfMarius/Coordinates-Grabber/releases/latest)
+Kurulum talimatları için bkz. [Bültenler](https://github.com/WulfMarius/Coordinates-Grabber/releases/latest)
